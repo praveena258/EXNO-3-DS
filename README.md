@@ -62,10 +62,7 @@ We use this categorical data encoding technique when the features are nominal(do
 <img width="1328" height="639" alt="image" src="https://github.com/user-attachments/assets/dd2b8a1f-e9bd-40c0-8778-e2c5b0489cd2" />
 <img width="1010" height="642" alt="image" src="https://github.com/user-attachments/assets/30c14f3c-c458-437a-bb1d-6c6e555c2bb3" />
 
-
-
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+           Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
 
        
